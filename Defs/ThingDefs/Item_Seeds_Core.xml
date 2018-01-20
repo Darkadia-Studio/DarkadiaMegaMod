@@ -1,0 +1,8 @@
+<Defs>
+  <DarkadiaMegaMod.SeedDef ParentName="SeedBase">
+    <defName>SeedRice</defName>
+    <label>rice seeds</label>
+    <plant>PlantRice</plant>
+    <graphicData><texPath>Things/Item/Seeds/Rice</texPath></graphicData>
+  </DarkadiaMegaMod.SeedDef>
+ </Defs>
